@@ -17,6 +17,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
+	<!-- Bootstrap core CSS -->
+  <!-- FontAwesome Icon -->
+  <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory');?>/assets/css/font-awesome/css/font-awesome.min.css" />
+  <!-- Boostrap Core CSS -->
+  <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory');?>/assets/css/bootstrap.min.css" />
+
 	<?php wp_head(); ?>
 </head>
 
